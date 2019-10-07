@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ssm2_controller:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7aeeb1a9-1dc5-49ba-bb33-581faff1c049" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/ssm2_service/target/" />
+    <ignored path="$PROJECT_DIR$/ssm2_dao/target/" />
+    <ignored path="$PROJECT_DIR$/ssm2_domain/target/" />
+    <ignored path="$PROJECT_DIR$/ssm2_utils/target/" />
+    <ignored path="$PROJECT_DIR$/ssm2_web/target/" />
+    <ignored path="$PROJECT_DIR$/ssm2_controller/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/java/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/resources/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/resources/springmvc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/java/controller/ProductController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="759">
+              <caret line="40" column="15" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/java/controller/SysLogController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/resources/spring-security.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>../</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>${pageContext.request.contextPath}/</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/Git/repository/project" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ssm2_domain/src/main/java/domain/Role.java" />
+        <option value="$PROJECT_DIR$/ssm2_dao/src/main/java/dao/ITravellerDao.java" />
+        <option value="$PROJECT_DIR$/ssm2_controller/src/main/webapp/failer.jsp" />
+        <option value="$PROJECT_DIR$/ssm2_domain/src/main/java/domain/UserInfo.java" />
+        <option value="$PROJECT_DIR$/ssm2_service/src/main/java/service/impl/IRoleService.java" />
+        <option value="$PROJECT_DIR$/ssm2_service/src/main/java/service/IPermissionService.java" />
+        <option value="$PROJECT_DIR$/ssm2_dao/src/main/java/dao/IPermissionDao.java" />
+        <option value="$PROJECT_DIR$/ssm2_utils/src/main/java/utils/BCryptPasswordEncoderUtils.java" />
+        <option value="$PROJECT_DIR$/ssm2_controller/src/main/webapp/pages/user-add.jsp" />
+        <option value="$PROJECT_DIR$/ssm2_controller/src/main/webapp/pages/user-show.jsp" />
+        <option value="$PROJECT_DIR$/ssm2_controller/src/main/webapp/pages/user-show1.jsp" />
+        <option value="$PROJECT_DIR$/ssm2_controller/src/main/webapp/pages/role-add.jsp" />
+        <option value="$PROJECT_DIR$/ssm2_controller/src/main/webapp/pages/permission-list.jsp" />
+        <option value="$PROJECT_DIR$/ssm2_controller/src/main/webapp/pages/permission-add.jsp" />
+        <option value="$PROJECT_DIR$/ssm2_controller/src/main/java/controller/PermissionController.java" />
+        <option value="$PROJECT_DIR$/ssm2_service/src/main/java/service/impl/PermissionServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ssm2_controller/src/main/webapp/pages/role-permission-add.jsp" />
+        <option value="$PROJECT_DIR$/ssm2_service/src/main/java/service/IRoleService.java" />
+        <option value="$PROJECT_DIR$/ssm2_service/src/main/java/service/impl/RoleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ssm2_controller/src/main/webapp/pages/user-role-add.jsp" />
+        <option value="$PROJECT_DIR$/ssm2_controller/src/main/webapp/pages/role-list.jsp" />
+        <option value="$PROJECT_DIR$/ssm2_controller/src/main/webapp/pages/role-show.jsp" />
+        <option value="$PROJECT_DIR$/ssm2_service/src/main/java/service/IUserService.java" />
+        <option value="$PROJECT_DIR$/ssm2_controller/src/main/webapp/pages/user-list.jsp" />
+        <option value="$PROJECT_DIR$/ssm2_dao/src/main/java/dao/IUserDao.java" />
+        <option value="$PROJECT_DIR$/ssm2_controller/src/main/resources/spring-security.xml" />
+        <option value="$PROJECT_DIR$/ssm2_controller/src/main/java/controller/RoleController.java" />
+        <option value="$PROJECT_DIR$/ssm2_controller/src/main/webapp/pages/product-add.jsp" />
+        <option value="$PROJECT_DIR$/ssm2_controller/src/main/webapp/pages/orders-list.jsp" />
+        <option value="$PROJECT_DIR$/ssm2_domain/src/main/java/domain/SysLog.java" />
+        <option value="$PROJECT_DIR$/ssm2_dao/src/main/java/dao/ISysLogDao.java" />
+        <option value="$PROJECT_DIR$/ssm2_controller/src/main/java/controller/LogAop.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/ssm2_controller/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/ssm2_controller/src/main/java/controller/OrdersController.java" />
+        <option value="$PROJECT_DIR$/ssm2_service/src/main/java/service/ISysLogService.java" />
+        <option value="$PROJECT_DIR$/ssm2_service/src/main/java/service/impl/SysLogServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ssm2_controller/src/main/webapp/pages/syslog-list.jsp" />
+        <option value="$PROJECT_DIR$/ssm2_controller/src/main/webapp/pages/syslog-page-list.jsp" />
+        <option value="$PROJECT_DIR$/ssm2_controller/src/main/webapp/login.jsp" />
+        <option value="$PROJECT_DIR$/ssm2_controller/src/main/webapp/pages/header.jsp" />
+        <option value="$PROJECT_DIR$/ssm2_controller/src/main/webapp/pages/aside.jsp" />
+        <option value="$PROJECT_DIR$/ssm2_controller/src/main/java/controller/SysLogController.java" />
+        <option value="$PROJECT_DIR$/ssm2_controller/src/main/java/controller/wdwq.java" />
+        <option value="$PROJECT_DIR$/ssm2_dao/src/main/java/dao/IRoleDao.java" />
+        <option value="$PROJECT_DIR$/ssm2_controller/src/main/webapp/403.jsp" />
+        <option value="$PROJECT_DIR$/ssm2_controller/src/main/resources/springmvc.xml" />
+        <option value="$PROJECT_DIR$/ssm2_controller/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/ssm2_service/src/main/java/service/impl/OrdersServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ssm2_service/src/main/java/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ssm2_controller/src/main/java/controller/UserController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.5.0-bin/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.0-bin\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssm2" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssm2" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssm2_controller" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssm2_controller" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="134" />
+    <option name="y" value="52" />
+    <option name="width" value="1225" />
+    <option name="height" value="867" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ssm2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm2" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm2_controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm2" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm2_controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm2" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm2_controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm2" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm2_controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm2" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm2_controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm2" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm2_controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm2" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm2_controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm2" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm2_controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm2" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm2_dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm2" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm2_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm2" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm2_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm2" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm2_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm2" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm2_service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm2" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm2_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm2" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm2_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm2" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm2_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm2" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm2_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/Git/repository/project" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Intellij IDEA\ssm2\ssm2_controller\src\main\webapp\img" />
+      <recent name="D:\Intellij IDEA\ssm2\ssm2_controller\src\main\webapp\pages" />
+      <recent name="D:\Intellij IDEA\ssm2\ssm2_dao\src\main\java\dao" />
+      <recent name="D:\Intellij IDEA\ssm2\ssm2_service\src\main\java\service\impl" />
+      <recent name="D:\Intellij IDEA\ssm2\ssm2_controller\src\main\webapp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Intellij IDEA\ssm2\ssm2_controller\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.0.37">
+    <configuration name="BCryptPasswordEncoderUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utils.BCryptPasswordEncoderUtils" />
+      <module name="ssm2_utils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.0.37" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.37" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/ssm2_controlle/login.jsp" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ssm2_controller:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/ssm2_controlle" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_ssm2_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="11808" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ssm2_controller:war" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BCryptPasswordEncoderUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7aeeb1a9-1dc5-49ba-bb33-581faff1c049" name="Default Changelist" comment="" />
+      <created>1567588180100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567588180100</updated>
+      <workItem from="1567588181833" duration="15906000" />
+      <workItem from="1567645270444" duration="28183000" />
+      <workItem from="1567698007667" duration="1185000" />
+      <workItem from="1567732760746" duration="9476000" />
+      <workItem from="1567755375685" duration="15575000" />
+      <workItem from="1567820457119" duration="22044000" />
+      <workItem from="1567907995646" duration="28562000" />
+      <workItem from="1567993776165" duration="14433000" />
+      <workItem from="1568025665376" duration="5500000" />
+      <workItem from="1568039980096" duration="8155000" />
+      <workItem from="1568083410062" duration="23386000" />
+      <workItem from="1568165370637" duration="19379000" />
+      <workItem from="1568627111281" duration="1126000" />
+      <workItem from="1568720694100" duration="1033000" />
+      <workItem from="1568732404874" duration="2259000" />
+      <workItem from="1568772296967" duration="5026000" />
+      <workItem from="1568860583964" duration="771000" />
+      <workItem from="1569152340622" duration="1748000" />
+      <workItem from="1569236705054" duration="3359000" />
+      <workItem from="1569408804887" duration="3465000" />
+      <workItem from="1569486858892" duration="404000" />
+      <workItem from="1569575102285" duration="51000" />
+      <workItem from="1569683017375" duration="1286000" />
+      <workItem from="1569725344168" duration="1348000" />
+      <workItem from="1570347108751" duration="4009000" />
+      <workItem from="1570440399340" duration="243000" />
+      <workItem from="1570440648556" duration="518000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="218430000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23521851" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.16172507" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.1884253" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.2920592" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.31940702" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.20694087" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Key Promoter X" order="6" weight="0.295" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/webapp/pages/user-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="151" column="67" selection-start-line="151" selection-start-column="67" selection-end-line="151" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/webapp/pages/product-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5658" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/webapp/pages/product-add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1771">
+          <caret line="166" column="48" selection-start-line="166" selection-start-column="48" selection-end-line="166" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/webapp/pages/orders-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5865">
+          <caret line="255" column="172" selection-start-line="255" selection-start-column="172" selection-end-line="255" selection-end-column="172" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm2_dao/src/main/java/dao/ISysLogDao.java" />
+    <entry file="file://$PROJECT_DIR$/ssm2_service/src/main/java/service/IOrdersService.java" />
+    <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/webapp/pages/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="26" column="81" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/java/controller/wdwq.java" />
+    <entry file="file://$PROJECT_DIR$/ssm2_domain/src/main/java/domain/SysLog.java" />
+    <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/webapp/pages/orders-show.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-288">
+          <caret line="185" column="73" selection-start-line="185" selection-start-column="73" selection-end-line="185" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/webapp/pages/role-add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2015">
+          <caret line="133" column="48" selection-start-line="133" selection-start-column="48" selection-end-line="133" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/webapp/pages/syslog-page-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4876">
+          <caret line="212" column="113" selection-start-line="212" selection-start-column="98" selection-end-line="212" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm2_service/src/main/java/service/ISysLogService.java" />
+    <entry file="file://$PROJECT_DIR$/ssm2_domain/src/main/java/domain/Role.java" />
+    <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/webapp/pages/role-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3542">
+          <caret line="154" column="97" selection-start-line="154" selection-start-column="97" selection-end-line="154" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm2_service/src/main/java/service/impl/SysLogServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/ssm2_utils/src/main/java/utils/DateUtils.java" />
+    <entry file="file://$PROJECT_DIR$/ssm2_utils/src/main/java/utils/BCryptPasswordEncoderUtils.java" />
+    <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/webapp/pages/main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-483">
+          <caret line="132" column="21" selection-start-line="132" selection-start-column="21" selection-end-line="132" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm2_utils/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/webapp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/webapp/failer.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/webapp/403.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm2_domain/src/main/java/domain/Traveller.java" />
+    <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/webapp/pages/aside.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm2_dao/src/main/java/dao/IRoleDao.java" />
+    <entry file="file://$PROJECT_DIR$/ssm2_dao/src/main/java/dao/IPermissionDao.java" />
+    <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/java/controller/RoleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm2_service/src/main/java/service/impl/RoleServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm2_controller/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm2_service/src/main/java/service/IRoleService.java" />
+    <entry file="file://$PROJECT_DIR$/ssm2_service/src/main/java/service/impl/OrdersServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/webapp/pages/orders-page-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7843">
+          <caret line="341" column="22" selection-start-line="341" selection-start-column="22" selection-end-line="341" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/java/controller/LogAop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/resources/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm2_service/src/main/java/service/impl/UserServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/ssm2_service/src/main/java/service/IUserService.java" />
+    <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/java/controller/OrdersController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/java/controller/PermissionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm2_dao/src/main/java/dao/IOrdersDao.java" />
+    <entry file="file://$PROJECT_DIR$/ssm2_dao/src/main/java/dao/IProductDao.java" />
+    <entry file="file://$PROJECT_DIR$/ssm2_dao/src/main/java/dao/IUserDao.java" />
+    <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/resources/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/java/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="40" column="15" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/java/controller/SysLogController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/resources/spring-security.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm2_controller/src/main/java/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ssm2_service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.41957256" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
